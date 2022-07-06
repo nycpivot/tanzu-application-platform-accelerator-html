@@ -1,0 +1,7 @@
+accelerator:
+  displayName: Simple Accelerator
+  description: Contains just a README
+  iconUrl: https://github.com/nycpivot/tanzu-application-platform-accelerator-html/images
+  tags:
+  - simple
+  - getting-started
